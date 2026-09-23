@@ -23,6 +23,9 @@ header {
 header nav li {
     display: inline;
     margin-left: 16px;
+}
+
+header div nav li a {
     color: #ecf0f1;
     font-size: 18px;
 }
