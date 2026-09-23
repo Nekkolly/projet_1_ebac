@@ -70,6 +70,21 @@ section .container ul li div {
     background-color: #ececec;
 }
 
+form input,
+form textarea,
+form button {
+    display: block;
+    width: 800px;
+    margin-bottom: 8px;
+    padding: 8px;
+    
+}
+
+section .container form textarea {
+    height: 90px;
+    resize: none;
+}
+
 footer {
     background-color: #886123;
     color: #ecf0f1;
